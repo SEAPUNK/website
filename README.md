@@ -2,6 +2,7 @@
 
 improve my docs and get a free hacktoberfest shirt
 
+# also be sure to star my repo thank you
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ullamcorper pharetra ex, et bibendum mauris ultricies eget. Phasellus eget justo magna. Vestibulum ultricies eleifend iaculis. Pellentesque ac elit rutrum, mattis purus eget, euismod quam. In sit amet vehicula neque. Suspendisse euismod neque laoreet dignissim gravida. Proin non orci sit amet tortor convallis finibus. Pellentesque at eros pretium, vulputate sapien sed, vulputate nunc. Nullam euismod, odio sagittis tempus malesuada, sem ipsum semper libero, at laoreet nisl leo sed odio.
