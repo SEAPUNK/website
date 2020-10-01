@@ -5,7 +5,7 @@
 ![website](Untitled2.png)
 
 
-# Improve my docs and get a free hacktoberfest shirt
+# Improve my docs and get a free hacktoberfest T-shirt
 
 # Also be sure to star my repo thank you
 
