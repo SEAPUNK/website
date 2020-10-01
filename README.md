@@ -1,13 +1,13 @@
 
-# website
+# Website
 
 
 ![website](Untitled2.png)
 
 
-# improve my docs and get a free hacktoberfest shirt
+# Improve my docs and get a free hacktoberfest shirt
 
-# also be sure to star my repo thank you
+# Also be sure to star my repo thank you
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
