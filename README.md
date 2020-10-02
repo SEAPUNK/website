@@ -2,7 +2,7 @@
 # Website
 
 
-![website](Untitled2.png)
+![website](media/Untitled2.png)
 
 
 # Improve my docs and get a free hacktoberfest T-shirt
