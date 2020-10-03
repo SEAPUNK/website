@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <style>
+
+            .top {
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-end;
+            }
+
+            h1 {
+                text-align: center;
+                color: white;
+                display: inline-block;
+                font: bold 2em Sans-Serif;
+                animation: fade-in 1s ease-in;
+                animation-fill-mode: both;
+            }
+
+            .earth {
+                animation: zoom-in 1s cubic-bezier(0.79, 0.01, 0.27, 1.55) 1s;
+                opacity: 0.0;
+                animation-fill-mode: both;
+            }
+
+            @keyframes zoom-in {
+                0% {
+                    transform: perspective(1000px) translateZ(-99ch);
+                    opacity: 0.0;
+                }
+                100% {
+                    transform: perspective(1000px) translateZ(0);
+                    opacity: 1;
+                }
+            }
+
+            @keyframes fade-in {
+                0% {
+                    opacity: 0.0;
+                }
+                100% {
+                    opacity: 1;
+                }
+            }
+
+            .slide-img {
+                display: absolute;
+                visibility: hidden;
+            }
+
+        </style>
+        <title>EARTH</title>
+        <meta name="Description" content="THIS IS EARTH">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script>
+            function onEarthImageLoaded(element) {
+                element.classList.add("earth");
+            }
+
+            window.addEventListener("DOMContentLoaded", (event) => {
+                let earthElement = document.getElementById("earth");
+                if (earthElement == undefined || earthElement == null) return;
+                if (earthElement.complete) {
+                    onEarthImageLoaded(earthElement);
+                } else {
+                    earthElement.addEventListener('load', () => {onEarthImageLoaded(element)});
+                }
+                setTimeout()
+            });
+        </script>
+    </head>
+    <body style="background-image: url(media/pexels-philippe-donn-1169754.jpg); background-size: cover; background-position: center center; margin: 0 auto; max-width: 100vw; height: 100vh;">
+        <div style=" display: flex; align-items: center; width: 100%; height: 100%;">
+            <div style="height: 100%; width: 100%; display: flex; align-items: center; justify-content: center; flex-direction: column; overflow: hidden;">
+                <div class="top" style="flex: 1 0 5%;">
+                    <h1>THIS IS WHAT</h1>
+                </div>
+                <div style="width: 100%; min-height: 0; overflow: visible; max-height: 60%;">
+                    <div style="display: flex; flex-direction: row; height: 100%;">
+                        <div style="flex: 0 0 5%;"></div>
+                        <div id="earth" class="earth" style="object-fit: contain; flex: 1 0; position: relative; text-align: center; display: block;">
+                            <img src="media/Earth_Western_Hemisphere_transparent_background.png" alt="EARTH" style="max-height: 100%; max-width: 100%; object-fit: contain;">
+
+                        </div>
+                        <div style="flex: 0 0 5%;"></div>
+                    </div>
+                </div>
+                <div style="flex: 1 0 5%">
+                    <h1>THE EARTH LOOKS LIKE</h1>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
