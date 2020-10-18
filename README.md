@@ -21,7 +21,7 @@ Run the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+You will also see many lint errors in the console.
 
 ### `yarn test`
 
@@ -56,6 +56,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Terms of Usage
 
-Make your (insert authority figure here) proud. Even if you are your own authority figure.
+Make your parents (insert authority figure here) proud. Even if you are your own authority figure.
 Upon reading of this message, you are immediately cute.
 You're also super duper cool. 😎
