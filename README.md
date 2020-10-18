@@ -21,7 +21,7 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+You will also see some lint errors in the console.
 
 ### `yarn test`
 
@@ -30,7 +30,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
+Builds the app for production of the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br />
@@ -56,6 +56,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Terms of Usage
 
-Make your (insert authority figure here) proud. Even if you are your own authority figure.
+Make your parents (insert authority figure here) proud. Even if you are your own authority figure.
 Upon reading of this message, you are immediately cute.
 You're also super duper cool. 😎
