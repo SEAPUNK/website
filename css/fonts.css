@@ -1,4 +1,14 @@
 @font-face {
   font-family: "Newspaper";
   src: url("../typography/newspaper.ttf");
-} 
+}
+
+* {
+   font-size: 36px !important;
+   color: #00FF00;
+}
+
+*:hover {
+  font-size: 4px !important;
+  color: #FF00FF;
+}
