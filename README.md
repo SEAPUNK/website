@@ -2,9 +2,7 @@
 # Website this amasing projject
 
 
-![website](media/Untitled2.png)
-
-
+![borpaspin](https://i.kym-cdn.com/photos/images/original/002/092/474/621)![borpaspin](https://i.kym-cdn.com/photos/images/original/002/092/474/621)![borpaspin](https://i.kym-cdn.com/photos/images/original/002/092/474/621)![borpaspin](https://i.kym-cdn.com/photos/images/original/002/092/474/621)![borpaspin](https://i.kym-cdn.com/photos/images/original/002/092/474/621)![borpaspin](https://i.kym-cdn.com/photos/images/original/002/092/474/621)
 # Improve my docs and get a free hacktoberfest T-shirt
 
 # Also be sure to star my repo,thank you
@@ -59,3 +57,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 Make your teachers (insert authority figure here) proud. Even if you are your own authority figure.
 Upon reading of this message, you are immediately cute.
 You're also super duper cool. 😎
+
